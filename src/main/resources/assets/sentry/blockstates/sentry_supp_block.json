@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "sentry:block/sentry_supp_block" }
+  }
+}

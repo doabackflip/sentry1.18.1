@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "sentry:block/sentry_shooter_block"
+    }
+  }
+}

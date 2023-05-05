@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sentry:block/sentry_base_block"
+    },
+    "facing=south": {
+      "model": "sentry:block/sentry_base_block",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sentry:block/sentry_base_block",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "sentry:block/sentry_base_block",
+      "y": 90
+    }
+  }
+}
